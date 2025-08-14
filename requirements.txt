@@ -1,0 +1,18 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+tqdm>=4.64.0
+
+# Subtask A - Span Detection
+openai>=1.99.9
+python-dotenv>=1.0.0
+python-Levenshtein>=0.20.0
+
+# Subtask B - Span Verification  
+openpyxl>=3.0.0
+scikit-learn>=1.0.0
+
+# Subtask C - Span Correction
+transformers>=4.20.0
+torch>=1.12.0
+sentence-transformers>=2.2.0
